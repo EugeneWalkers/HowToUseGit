@@ -11,7 +11,7 @@ git add . (adding all files from local diretory)
 
 git commit -m "Some changes"
 
-git push origin master (push = push, origin = name reference's, master = branch)
+git push origin master (push = push, origin = name remote's, master = branch)
 
 git status (changes from the last commit)
 
