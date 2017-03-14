@@ -14,3 +14,5 @@ git commit -m "Some changes"
 git push origin master (push = push, origin = name reference's, master = branch)
 
 git status (changes from the last commit)
+
+git rm 'file's name' (removes file)
