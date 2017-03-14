@@ -3,7 +3,7 @@ creating repository in GitHub
 go to directory
 git init (creating .git)
 
-git remote add https://
+git remote add <name> https://  (to add remote on github)
 
 git remote -v (for looking)
 
