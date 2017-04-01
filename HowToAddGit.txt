@@ -15,8 +15,4 @@ git push origin master (push = push, origin = name remote's, master = branch)
 
 git status (changes from the last commit)
 
-<<<<<<< HEAD
 git rm "file" (for deleting file)
-=======
-git rm 'file's name' (removes file)
->>>>>>> 398db51f665a79f757b7e33ec5ab984e5557a468
