@@ -1,17 +1,17 @@
 creating repository in GitHub
 
 go to directory
-git init (creating .git)
+0.1 git init (creating .git)
 
-git remote add <name> https://  (to add remote on github)
+0.2 git remote add <name> https://  (to add remote on github)
 
 git remote -v (for looking)
 
-git add . (adding all files from local diretory)
+1. git add . (adding all files from local diretory)
 
-git commit -m "Some changes"
+2. git commit -m "Some changes"
 
-git push origin master (push = push, origin = name remote's, master = branch)
+3. git push origin master (push = push, origin = name remote's, master = branch)
 
 git status (changes from the last commit)
 
