@@ -3,8 +3,10 @@ creating repository in GitHub
 go to directory
 0.1 git init (creating .git)
 
-0.2 git remote add <name> https://  (to add remote on github)
-
+0.2 git remote add <name> https://gihub.com/.../directory.git  (to add remote on github)
+    example:
+    git remote add origin https://github.com/EugeneWalkers/HowToUseGit.git
+    
 git remote -v (for looking)
 
 1. git add . (adding all files from local diretory)
