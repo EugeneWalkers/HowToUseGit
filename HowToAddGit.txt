@@ -16,3 +16,5 @@ git push origin master (push = push, origin = name remote's, master = branch)
 git status (changes from the last commit)
 
 git rm "file" (for deleting file)
+
+Does git work?
